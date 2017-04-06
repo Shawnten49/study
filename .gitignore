@@ -16,3 +16,4 @@ hs_err_pid*
 /.git
 /DBConnectionProxy/.idea
 /DBConnectionProxy/DBConnectionProxy.iml
+/DBConnectionProxy/target
